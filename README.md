@@ -19,6 +19,7 @@
 - Open Android Studio: File -> Open.
 - Select the "Income_Tax_India" folder from your PC.
 - Wait for the build to complete.
+- To use this application on your device, install the "Income Tax India.apk."
 
 ## Screenshots
 <img src="https://github.com/popat-modhwadiya/Income-Tax-India/assets/159280000/9c5cac8e-975b-491b-8bb6-45f314f2c5c1" alt="Screenshot 1" width="45%" style="max-height: 150px;">  <img src="https://github.com/popat-modhwadiya/Income-Tax-India/assets/159280000/391b800a-151d-4222-9653-266e9a000d29" alt="Screenshot 2" width="45%" style="max-height: 150px;"> </br>
