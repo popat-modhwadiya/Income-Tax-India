@@ -14,7 +14,8 @@
 
 ## Deployment
 
-- Copy the "Income_Tax_India" repo to your PC.
+- Copy this repo to your PC.
+- Extract/Unzip the contents of Income_Tax_India.zip to get the Income_Tax_India folder.
 - Download and install Android Studio with Java.
 - Open Android Studio: File -> Open.
 - Select the "Income_Tax_India" folder from your PC.
